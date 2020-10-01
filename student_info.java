@@ -41,7 +41,6 @@ public class student_info extends Activity {
 	      {
 		   sub4 = extras.getString("sub3");
 	      }   
-		  // Toast.makeText(getApplicationContext(), sub4, Toast.LENGTH_SHORT).show();
 		   
 	      name = (TextView) findViewById(R.id.editTextName);
 	      phone = (TextView) findViewById(R.id.editTextPhone);
